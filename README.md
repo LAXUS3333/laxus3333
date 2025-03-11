@@ -35,6 +35,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laxus3333&bg_color=000000&text_color=FFFFFF" alt="laxus3333" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laxus3333&theme=black" alt="laxus3333" />
 </p>
+
 
