@@ -34,8 +34,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxus3333&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=FFFFFF" alt="laxus3333" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laxus3333&theme=black" alt="laxus3333" />
-</p>
-
 
