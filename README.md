@@ -39,7 +39,7 @@ focus:       [ Machine Learning, Computer Vision, RTL/VLSI, Embedded Systems ]
 graduating:  2026
 ```
 
-- 🎓 &nbsp;Final-year **Electronics & Telecommunication Engineering** graduate at **CUET**
+- 🎓 &nbsp;**Electronics & Telecommunication Engineering** graduate at **CUET**
 - 🔬 &nbsp;Undergraduate thesis on **cross-domain generalization of knowledge-distilled lightweight CNNs** for **edge-deployed waste classification** (Raspberry Pi 5)
 - 🧠 &nbsp;Building across **ML / Computer Vision**, **digital design (Verilog / VLSI)**, and **embedded systems**
 - 💼 &nbsp;Industrial training at **Ulkasemi** *(RTL / VLSI)* and **Streams Tech** *(Web Development)*
