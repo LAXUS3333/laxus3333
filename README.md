@@ -10,10 +10,8 @@
   </a>
 </div>
 
-<!-- ============ PROFILE VIEWS + SOCIALS ============ -->
+<!-- ============ SOCIALS ============ -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=laxus3333&label=Profile%20views&color=06B6D4&style=flat-square" alt="profile views" />
-  &nbsp;
   <a href="https://www.linkedin.com/in/nafis-azmain" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
@@ -103,8 +101,9 @@ graduating:  2026
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=laxus3333&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=C9D1D9" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxus3333&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=C9D1D9" alt="top langs" />
+  <a href="https://github.com/laxus3333?tab=followers">
+    <img src="https://img.shields.io/github/followers/laxus3333?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=06B6D4&labelColor=0D1117" alt="followers" />
+  </a>
 </div>
 
 <div align="center">
@@ -112,7 +111,7 @@ graduating:  2026
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laxus3333&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
+  <img src="https://ghchart.rshah.org/06B6D4/laxus3333" alt="contribution graph" width="90%" />
 </div>
 
 <br />
