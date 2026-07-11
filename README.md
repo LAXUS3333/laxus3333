@@ -110,10 +110,6 @@ graduating:  2026
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxus3333&hide_border=true&background=0D1117&stroke=30363D&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="streak" />
 </div>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/06B6D4/laxus3333" alt="contribution graph" width="90%" />
-</div>
-
 <br />
 
 <!-- ============ FOOTER ============ -->
