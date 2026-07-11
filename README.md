@@ -6,7 +6,7 @@
 <!-- ============ TYPING SUBTITLE ============ -->
 <div align="center">
   <a href="https://github.com/laxus3333">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Final-year+ETE+%40+CUET;Machine+Learning+%26+Computer+Vision;RTL+%2F+VLSI+Design+Enthusiast;Embedded+Systems+Tinkerer;Turning+silicon+%26+data+into+ideas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Graduate+ETE+%40+CUET;Machine+Learning+%26+Computer+Vision;RTL+%2F+VLSI+Design+Enthusiast;Embedded+Systems+Tinkerer;Turning+silicon+%26+data+into+ideas" alt="Typing SVG" />
   </a>
 </div>
 
@@ -33,13 +33,13 @@
 
 ```yaml
 name:        Nafis Azmain
-role:        Electronics & Telecommunication Engineering (Final Year) @ CUET
+role:        Electronics & Telecommunication Engineering Graduate @ CUET
 location:    Dhaka, Bangladesh
 focus:       [ Machine Learning, Computer Vision, RTL/VLSI, Embedded Systems ]
 graduating:  2026
 ```
 
-- 🎓 &nbsp;Final-year **Electronics & Telecommunication Engineering** student at **CUET**
+- 🎓 &nbsp;Final-year **Electronics & Telecommunication Engineering** graduate at **CUET**
 - 🔬 &nbsp;Undergraduate thesis on **cross-domain generalization of knowledge-distilled lightweight CNNs** for **edge-deployed waste classification** (Raspberry Pi 5)
 - 🧠 &nbsp;Building across **ML / Computer Vision**, **digital design (Verilog / VLSI)**, and **embedded systems**
 - 💼 &nbsp;Industrial training at **Ulkasemi** *(RTL / VLSI)* and **Streams Tech** *(Web Development)*
