@@ -44,7 +44,7 @@ graduating:  2026
 - 🧠 &nbsp;Building across **ML / Computer Vision**, **digital design (Verilog / VLSI)**, and **embedded systems**
 - 💼 &nbsp;Industrial training at **Ulkasemi** *(RTL / VLSI)* and **Streams Tech** *(Web Development)*
 - 🌐 &nbsp;Currently refactoring my **portfolio site** with an *IC-layout* visual theme
-- 📫 &nbsp;Reach me at **nafis.work0@gmail.com**
+- 📫 &nbsp;Reach me at **nafiss3333@gmail.com**
 - ⚡ &nbsp;Fun fact — I like living where the hardware meets the model.
 
 <br />
